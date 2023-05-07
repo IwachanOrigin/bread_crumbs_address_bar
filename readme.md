@@ -28,6 +28,10 @@
     powershell.exe cmake -S . -B build -G "\"Ninja Multi-Config\"" -DQTDIR="<Qtのパス>"  
     powershell.exe cmake --build build --config debug
 
+## Design
+
+![design](https://user-images.githubusercontent.com/12496951/236681758-946725dc-c27f-43a3-a448-47fc9c6cab43.png)
+
 ## Reference
 
 [breadcrumbsaddressbar](https://github.com/Winand/breadcrumbsaddressbar)  
